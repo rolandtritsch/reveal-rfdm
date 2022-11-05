@@ -43,33 +43,33 @@
 
 * Leadership ...
   ... is the ability to inspire others to deliver on shared objectives - Jeff Weiner (Linked-In)
-
 * Decision-Making
   Every action is preceded by a decision. The jointly supported decision is the supreme discipline of the fine art of leading and being led - Richard Graf (K-i-E)
-
+* Stage-Setting
+  #+REVEAL_HTML: <img src="./images/matrix.png"/>
+* Stage-Setting
+  #+REVEAL_HTML: <img src="./images/today.png"/>
 * Stage-Setting
   - Management is not leadership (just think of the most inspiring person you know, who is not a manager)
   - Creating a good decision-making process/culture and executing on it is important (but difficult)
   - Goal: Good decisions (most of them). Fast. Good experience. No drama (disagree and commit without resentment)
   - First: Get the basics right. Second: Adjust it for Remote-First
-
 * The Basics
-
-  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
   - Stimuli -> Descision(-Making) -> Action
   - Small and large. Fast and long. Once an hour vs once a year
-  - For individuals and groups
+  - For individuals and groups (100 times a day)
   - Cognitive and/or emotional (fear, anger, grief, joy, guilt, shame, ...)
   - Creative and safe
-  #+REVEAL_HTML: </div>
-
-  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/kie.png"/></div>
-
+* The Basics
+  #+REVEAL_HTML: <img src="./images/kie.png"/>
 * Remote-First
   - Bullet 
   - Bullet 
-  - Bullet 
-
+  - Bullet
+* Main take-aways
+  - Get the basics right
+  - Apply secret-sauce
+  - Do not reinvent the wheel (too much)
 * TOC
   - [[TOC][TOC]]
   - [[Intro][Intro]]
