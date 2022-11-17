@@ -41,7 +41,7 @@
 # working #+reveal_slide_footer: FOOTER
 #+reveal_plugins: (notes highlight)
 
-* Leadership ...
+* Leadership
   ... is the ability to inspire others to deliver on shared objectives - Jeff Weiner (Linked-In)
 * Decision-Making
   Every action is preceded by a decision. The jointly supported decision is the supreme discipline of the fine art of leading and being led - Richard Graf (K-i-E)
@@ -50,26 +50,49 @@
 * Stage-Setting
   #+REVEAL_HTML: <img src="./images/today.png"/>
 * Stage-Setting
-  - Management is not leadership (just think of the most inspiring person you know, who is not a manager)
-  - Creating a good decision-making process/culture and executing on it is important (but difficult)
-  - Goal: Good decisions (most of them). Fast. Good experience. No drama (disagree and commit without resentment)
+  - Management is not leadership (just think of the most inspiring person you know, who is not a manager). We all need to be leaders
+  - Creating a good decision-making process/culture and executing on it is important (but difficult) and the responsibility of management
+  - Goal: Good decisions (most of them). Fast. Good experience. No drama (disagree-and-commit without resentment)
   - First: Get the basics right. Second: Adjust it for Remote-First
 * The Basics
   - Stimuli -> Descision(-Making) -> Action
   - Small and large. Fast and long. Once an hour vs once a year
   - For individuals and groups (100 times a day)
-  - Cognitive and/or emotional (fear, anger, grief, joy, guilt, shame, ...)
-  - Creative and safe
+  - (Is) Cognitive and/or emotional (fear, anger, grief, joy, guilt, shame, ...)
+  - (Needs to be) Creative and safe
 * The Basics
   #+REVEAL_HTML: <img src="./images/kie.png"/>
-* Remote-First
+* The Basics
+  #+REVEAL_HTML: <img src="./images/dwarfs.png"/>
+* The Basics
+  #+REVEAL_HTML: <img src="./images/model.jpg"/>
+* The Basics
+  - Fast and good (high-quality; not wrong (all the time))
+  - Source of good energy. Good process/experience. Clear expectations
+  - Roles: Decision maker vs. decision (process) owner vs. advisors vs. ...
+  - Kinds: Consensus vs. majority vs. advisory vs. ...
+  - Phases: Hearing vs. Understanding vs. Agreeing
+  - Symptoms: Trust (small groups), Visible/Transparent, Fast, Good, ...
+* The Game
   - Bullet 
+  - Bullet 
+  - Bullet
+* Remote-First
+  - Tools/Infrastructure: Zoom, Quip, Slack, ...
+  - Behaviours: ???, ???, ???
   - Bullet 
   - Bullet
 * Main take-aways
   - Get the basics right
   - Apply secret-sauce
   - Do not reinvent the wheel (too much)
+* (Not so) Main take-aways
+  - Good audio/good microphone :)
+  - Write everything down
+  - Call a friend (once in a while)
+* Resources
+  - [[https://www.pmi.org/learning/library/decision-making-distributed-project-teams-7126][Decision-making within distributed project teams - an exploration of formalization and autonomy as determinants of success]]
+  - ???
 * TOC
   - [[TOC][TOC]]
   - [[Intro][Intro]]
