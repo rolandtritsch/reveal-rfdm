@@ -20,7 +20,7 @@
 # not working #+reveal_init_options: height: "80%"
 # not working #+reveal_init_options: width: "80%"
 #+reveal_init_options: slideNumber: "c/t"
-#+reveal_width: 80%
+#+reveal_width: 90%
 #+reveal_height: 80%
 #+reveal_margin: 2.0
 #+reveal_max_scale: 2.0
